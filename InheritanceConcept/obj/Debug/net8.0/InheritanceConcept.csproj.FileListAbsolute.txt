@@ -1,0 +1,14 @@
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\obj\Debug\net8.0\InheritanceConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\obj\Debug\net8.0\InheritanceConcept.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\obj\Debug\net8.0\InheritanceConcept.AssemblyInfo.cs
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\obj\Debug\net8.0\InheritanceConcept.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\bin\Debug\net8.0\InheritanceConcept.exe
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\bin\Debug\net8.0\InheritanceConcept.deps.json
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\bin\Debug\net8.0\InheritanceConcept.runtimeconfig.json
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\bin\Debug\net8.0\InheritanceConcept.dll
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\bin\Debug\net8.0\InheritanceConcept.pdb
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\obj\Debug\net8.0\InheritanceConcept.dll
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\obj\Debug\net8.0\refint\InheritanceConcept.dll
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\obj\Debug\net8.0\InheritanceConcept.pdb
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\obj\Debug\net8.0\InheritanceConcept.genruntimeconfig.cache
+C:\Users\moham\source\repos\Learn C#\InheritanceConcept\obj\Debug\net8.0\ref\InheritanceConcept.dll
